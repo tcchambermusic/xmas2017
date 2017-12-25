@@ -1,12 +1,12 @@
 			
 <html>
-<div align="center" class="news-background" data-type="background" style="background-color: #ffffff;width:auto">
+<div align="center" class="news-background" data-type="background" style="background-color: #ffffff;width:100%">
 <div>&nbsp;</div>
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td align="left" valign="top">
+			<td align="left" valign="top" width="100%">
 			<div class="news-base" data-type="base" style="padding-bottom: 1px; background-color: #DC2F2F; padding-left: 0px; padding-right: 0px; font-family: '微軟正黑體'; color: #000000; font-size: 15px; padding-top: 10px">
 			<div class="news-extra1" data-type="extra1" style="padding: 0px 5px; color: rgb(255, 255, 255); font-size: 13px; text-align: justify; background-color: rgb(181, 197, 135);"><!-- top end here --><!-- content start here --></div>
 
