@@ -1,9 +1,9 @@
 			
 <html>
-<div align="center" class="news-background" data-type="background" style="background-color: #ffffff">
+<div align="center" class="news-background" data-type="background" style="background-color: #ffffff;width:auto">
 <div>&nbsp;</div>
 
-<table border="0" cellpadding="0" cellspacing="0" style="width: auto">
+<table border="0" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
 			<td align="left" valign="top">
