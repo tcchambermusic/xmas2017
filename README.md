@@ -20,10 +20,6 @@
 			</div>
 			</td>
 			</tr>
-			<tr>
-  			<td align="center"><img src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" width="828" height="1496" usemap="#Map"/>
-			</td>
-		</tr>
 	</tbody>
 </table>
 </div>
