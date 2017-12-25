@@ -13,7 +13,7 @@
 			<div class="news-header news-article" data-type="header" style="padding-bottom: 10px; margin: 0px 0px 10px; padding-left: 10px; padding-right: 10px; background: #fff; padding-top: 10px">
 			<h3 class="news-title" style="margin: 0.5em 0px; font-size: 16px; text-align: justify;">&nbsp;</h3>
 
-			<img src="https://tcchambermusic.github.io/xmas2017/xmas17_TCfriends.pngg" style="width:auto;">
+			<img src="https://tcchambermusic.github.io/xmas2017/xmas17_TCfriends.png" style="width:auto;">
 
 			<p style="text-align: center;"><span style="font-size:10px;"><strong>Taiwan Connection　．　<a href="http://www.tc-chambermusic.org">Official Website</a>&nbsp;　|</strong>　<strong><a href="https://www.facebook.com/TaiwanConnection/">Facebook</a>&nbsp;</strong>&nbsp;</span></p>
 			</div>
