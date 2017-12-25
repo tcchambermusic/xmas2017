@@ -3,7 +3,7 @@
 <div align="center" class="news-background" data-type="background" style="background-color: #ffffff">
 <div>&nbsp;</div>
 
-<table border="0" cellpadding="0" cellspacing="0" style="width: 830px" width="830">
+<table border="0" cellpadding="0" cellspacing="0" style="width: auto">
 	<tbody>
 		<tr>
 			<td align="left" valign="top">
